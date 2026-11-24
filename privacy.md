@@ -1,4 +1,9 @@
 
+---
+title: Política de Privacidade
+permalink: /privacy.html
+---
+
 # Política de Privacidade - PinGallery Bot
 
 Última atualização: 24 de novembro de 2026
