@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>PinGallery Bot</title>
+</head>
+<body>
+    <h1>PinGallery Bot</h1>
+    <p>Projeto pessoal de automação para Discord.</p>
+    <p>O bot organiza e compartilha imagens
+    de fontes autorizadas em um canal privado.</p>
+    <p>Contato: proprietário do projeto.</p>
+</body>
+</html>
