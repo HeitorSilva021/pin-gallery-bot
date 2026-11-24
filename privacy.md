@@ -1,27 +1,24 @@
 
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-<meta charset="UTF-8">
-<title>Política de Privacidade - PinGallery Bot</title>
-</head>
-<body>
-<h1>Política de Privacidade - PinGallery Bot</h1>
-<p>Última atualização: 24 de novembro de 2026</p>
+# Política de Privacidade - PinGallery Bot
 
-<h2>1. Sobre o projeto</h2>
-<p>O PinGallery Bot é um projeto pessoal desenvolvido para compartilhar imagens em servidores do Discord.</p>
+Última atualização: 24 de novembro de 2026
 
-<h2>2. Dados e privacidade</h2>
-<p>O projeto não tem a finalidade de vender ou compartilhar dados pessoais dos usuários.</p>
+## 1. Sobre o projeto
 
-<h2>3. Serviços de terceiros</h2>
-<p>O projeto pode utilizar serviços de terceiros, como Discord e Pinterest, sujeitos às respectivas políticas de privacidade.</p>
+O PinGallery Bot é um projeto pessoal desenvolvido para compartilhar imagens em servidores do Discord.
 
-<h2>4. Segurança</h2>
-<p>As credenciais utilizadas pelo responsável pelo projeto devem ser mantidas em segurança e não devem ser divulgadas.</p>
+## 2. Dados e privacidade
 
-<h2>5. Contato</h2>
-<p>Para dúvidas sobre esta política, entre em contato com o responsável pelo projeto.</p>
-</body>
-</html>
+O projeto não tem a finalidade de vender ou compartilhar dados pessoais dos usuários.
+
+## 3. Serviços de terceiros
+
+O projeto pode utilizar serviços de terceiros, como Discord e Pinterest, sujeitos às respectivas políticas de privacidade.
+
+## 4. Segurança
+
+As credenciais utilizadas pelo responsável pelo projeto devem ser mantidas em segurança e não devem ser divulgadas.
+
+## 5. Contato
+
+Para dúvidas sobre esta política, entre em contato com o responsável pelo projeto.
